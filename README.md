@@ -1,4 +1,6 @@
 # Parkinsons-DL-Classifier
+![Architecture-of-the-Inception-V3-module-41](https://user-images.githubusercontent.com/94286214/229760162-1762cd29-d49b-4aaa-abdc-8fbb5b6b95f6.png)
+
 
 ## About
 A  Deep Learning approach utilizing a CNN based on **Inception V3** model, for classifing fMRI scans to Parkinson Disease group or Healthy group.
