@@ -3,7 +3,7 @@
 
 
 ## About
-A  Deep Learning approach utilizing a CNN based on **Inception V3** model, for classifing fMRI scans to Parkinson Disease group or Healthy group.
+A  Deep Learning approach utilizing a CNN based on **Inception V3** model, for classifing fMRI scans to Parkinson's Disease group or Healthy group.
 This model was developed as part of a semester project in the Mobile & Electronic Health Technologies course @ NTUA 2021-2022.
 
 ## Data
